@@ -23,7 +23,7 @@ const fetchprice =  async(ctype)=>{
     
 
 
-    res.innerHTML=`<tr style="background-color:pink;font-weight:bold;">
+    res.innerHTML=`<tr style="background-color:lightpink;font-weight:bold;">
     <td >
        property
     </td>
